@@ -1,0 +1,99 @@
+{
+    "nav": {
+        "home": "Home",
+        "about": "About",
+        "events": "Events",
+        "announcements": "Announcements",
+        "gallery": "Gallery",
+        "corporate": "Corporate",
+        "contact": "Contact",
+        "admin": "Admin Panel",
+        "login": "Login",
+        "logout": "Logout"
+    },
+    "home": {
+        "welcomeTitle": "Welcome to YTU Cultural Services",
+        "welcomeText1": "As Yıldız Technical University Cultural Services Department, we work to provide our students and the entire university community with a rich cultural and artistic experience.",
+        "welcomeText2": "We organize a wide range of events from concerts to theater performances, exhibitions to talks, enriching campus life.",
+        "moreInfo": "Learn More",
+        "upcomingEvents": "Upcoming Events",
+        "viewAll": "View All",
+        "announcements": "Announcements",
+        "noEvents": "No upcoming events."
+    },
+    "events": {
+        "title": "Events",
+        "filterByCategory": "Filter by Category",
+        "all": "All",
+        "concert": "Concert",
+        "theater": "Theater",
+        "exhibition": "Exhibition",
+        "seminar": "Seminar",
+        "workshop": "Workshop",
+        "other": "Other",
+        "date": "Date",
+        "location": "Location",
+        "details": "Details",
+        "register": "Register"
+    },
+    "gallery": {
+        "title": "Gallery",
+        "noImages": "No images available yet."
+    },
+    "about": {
+        "title": "About Us",
+        "mission": "Our Mission",
+        "vision": "Our Vision"
+    },
+    "announcements": {
+        "title": "Announcements",
+        "subtitle": "All announcements and news",
+        "all": "All",
+        "announcement": "Announcement",
+        "news": "News",
+        "important": "Important",
+        "attachments": "Attachments",
+        "loading": "Loading...",
+        "noResults": "No announcements found.",
+        "readMore": "Read More"
+    },
+    "corporate": {
+        "title": "Corporate",
+        "mission": "Our Mission",
+        "missionText": "As YTU SKS Department of Cultural Services, we work to provide our students and university community with rich cultural and artistic experiences, enriching campus life with social and cultural activities.",
+        "vision": "Our Vision",
+        "visionText": "As one of Turkey's leading universities, our vision is to be a pioneering institution in culture and arts, offering world-class events to our students.",
+        "values": "Our Values",
+        "valuesText": "Quality, accessibility, diversity and sustainability are our core values."
+    },
+    "contact": {
+        "title": "Contact",
+        "getInTouch": "Get in Touch",
+        "name": "Your Name",
+        "email": "Email",
+        "subject": "Subject",
+        "message": "Your Message",
+        "send": "Send",
+        "sending": "Sending...",
+        "address": "Address",
+        "phone": "Phone",
+        "officeHours": "Office Hours",
+        "weekdays": "Weekdays: 09:00 AM - 05:00 PM"
+    },
+    "footer": {
+        "quickLinks": "Quick Links",
+        "events": "Events",
+        "concerts": "Concerts",
+        "theater": "Theater",
+        "exhibitions": "Exhibitions",
+        "workshops": "Workshops",
+        "contactInfo": "Contact Info",
+        "rights": "All rights reserved.",
+        "description": "As Yıldız Technical University Cultural Services Department, we provide our students with rich cultural and artistic events."
+    },
+    "common": {
+        "loading": "Loading...",
+        "error": "An error occurred",
+        "success": "Successful"
+    }
+}

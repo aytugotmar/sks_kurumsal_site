@@ -1,0 +1,99 @@
+{
+    "nav": {
+        "home": "Ana Sayfa",
+        "about": "Hakkımızda",
+        "events": "Etkinlikler",
+        "announcements": "Duyurular",
+        "gallery": "Galeri",
+        "corporate": "Kurumsal",
+        "contact": "İletişim",
+        "admin": "Admin Panel",
+        "login": "Giriş",
+        "logout": "Çıkış Yap"
+    },
+    "home": {
+        "welcomeTitle": "YTÜ Kültür Hizmetlerine Hoş Geldiniz",
+        "welcomeText1": "Yıldız Teknik Üniversitesi Kültür Hizmetleri Şube Müdürlüğü olarak, öğrencilerimize ve tüm üniversite camiasına zengin bir kültürel ve sanatsal deneyim sunmak için çalışıyoruz.",
+        "welcomeText2": "Konserlerden tiyatro gösterilerine, sergilerden söyleşilere kadar geniş bir yelpazede etkinlikler düzenliyor, kampüs yaşamını renklendiriyoruz.",
+        "moreInfo": "Daha Fazla Bilgi",
+        "upcomingEvents": "Yaklaşan Etkinlikler",
+        "viewAll": "Tümünü Gör",
+        "announcements": "Duyurular",
+        "noEvents": "Yaklaşan etkinlik bulunmamaktadır."
+    },
+    "events": {
+        "title": "Etkinlikler",
+        "filterByCategory": "Kategoriye Göre Filtrele",
+        "all": "Tümü",
+        "concert": "Konser",
+        "theater": "Tiyatro",
+        "exhibition": "Sergi",
+        "seminar": "Seminer",
+        "workshop": "Atölye",
+        "other": "Diğer",
+        "date": "Tarih",
+        "location": "Konum",
+        "details": "Detaylar",
+        "register": "Kayıt Ol"
+    },
+    "gallery": {
+        "title": "Galeri",
+        "noImages": "Henüz görsel bulunmamaktadır."
+    },
+    "about": {
+        "title": "Hakkımızda",
+        "mission": "Misyonumuz",
+        "vision": "Vizyonumuz"
+    },
+    "announcements": {
+        "title": "Duyurular",
+        "subtitle": "Tüm duyuru ve haberler",
+        "all": "Tümü",
+        "announcement": "Duyuru",
+        "news": "Haber",
+        "important": "Önemli",
+        "attachments": "Ekler",
+        "loading": "Yükleniyor...",
+        "noResults": "Duyuru bulunamadı.",
+        "readMore": "Devamını Oku"
+    },
+    "corporate": {
+        "title": "Kurumsal",
+        "mission": "Misyonumuz",
+        "missionText": "YTÜ SKS Daire Başkanlığı Kültür Hizmetleri olarak, öğrencilerimize ve üniversite camiamıza zengin kültürel ve sanatsal deneyimler sunmak, kampüs yaşamını sosyal ve kültürel etkinliklerle zenginleştirmek için çalışıyoruz.",
+        "vision": "Vizyonumuz",
+        "visionText": "Türkiye'nin önde gelen üniversitelerinden biri olarak, kültür ve sanat alanında öncü bir kurum olmak, öğrencilerimize dünya standartlarında etkinlikler sunmak vizyonumuzdur.",
+        "values": "Değerlerimiz",
+        "valuesText": "Kalite, erişilebilirlik, çeşitlilik ve sürdürülebilirlik temel değerlerimizdir."
+    },
+    "contact": {
+        "title": "İletişim",
+        "getInTouch": "Bize Ulaşın",
+        "name": "Adınız",
+        "email": "E-posta",
+        "subject": "Konu",
+        "message": "Mesajınız",
+        "send": "Gönder",
+        "sending": "Gönderiliyor...",
+        "address": "Adres",
+        "phone": "Telefon",
+        "officeHours": "Çalışma Saatleri",
+        "weekdays": "Hafta İçi: 09:00 - 17:00"
+    },
+    "footer": {
+        "quickLinks": "Hızlı Bağlantılar",
+        "events": "Etkinlikler",
+        "concerts": "Konserler",
+        "theater": "Tiyatro",
+        "exhibitions": "Sergiler",
+        "workshops": "Atölyeler",
+        "contactInfo": "İletişim Bilgileri",
+        "rights": "Tüm hakları saklıdır.",
+        "description": "Yıldız Teknik Üniversitesi Kültür Hizmetleri Şube Müdürlüğü olarak öğrencilerimize zengin kültürel ve sanatsal etkinlikler sunuyoruz."
+    },
+    "common": {
+        "loading": "Yükleniyor...",
+        "error": "Bir hata oluştu",
+        "success": "Başarılı"
+    }
+}

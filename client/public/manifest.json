@@ -1,0 +1,15 @@
+{
+    "short_name": "YTÜ Kültür",
+    "name": "YTÜ Kültür Hizmetleri",
+    "icons": [
+        {
+            "src": "ytu-logo.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#c41e3a",
+    "background_color": "#ffffff"
+}

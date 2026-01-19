@@ -1,0 +1,145 @@
+.about-page {
+    min-height: 100vh;
+}
+
+.about-page .page-header {
+    background: linear-gradient(135deg, var(--primary-color), #a00037);
+    color: white;
+    padding: 60px 0;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.about-page .page-header h1 {
+    font-size: 42px;
+    font-weight: 800;
+    margin-bottom: 15px;
+    color: white;
+}
+
+.about-page .page-header p {
+    font-size: 18px;
+    opacity: 0.95;
+    color: white;
+}
+
+[data-theme="dark"] .about-page .page-header {
+    background: linear-gradient(135deg, #c41e3a, #8b0000);
+}
+
+[data-theme="dark"] .about-page .page-header h1,
+[data-theme="dark"] .about-page .page-header p {
+    color: white;
+}
+
+.about-content {
+    max-width: 900px;
+    margin: 0 auto 80px;
+}
+
+.about-section {
+    margin-bottom: 60px;
+}
+
+.about-section h2 {
+    font-size: 36px;
+    font-weight: 800;
+    color: var(--primary-color);
+    margin-bottom: 25px;
+}
+
+.about-section p {
+    font-size: 18px;
+    line-height: 1.8;
+    color: var(--text-dark);
+    margin-bottom: 20px;
+}
+
+.activities-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 25px;
+    margin-top: 30px;
+}
+
+.activity-card {
+    padding: 30px;
+    background: var(--bg-light);
+    border-radius: 12px;
+    border-left: 4px solid var(--primary-color);
+    transition: all 0.3s ease;
+}
+
+.activity-card:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--shadow-md);
+}
+
+.activity-card h3 {
+    font-size: 22px;
+    font-weight: 700;
+    color: var(--primary-color);
+    margin-bottom: 12px;
+}
+
+.activity-card p {
+    font-size: 16px;
+    color: var(--text-light);
+    line-height: 1.6;
+    margin: 0;
+}
+
+/* HTML content from editor */
+.about-content h1,
+.about-content h2,
+.about-content h3 {
+    color: var(--primary-color);
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+.about-content p {
+    line-height: 1.8;
+    margin-bottom: 20px;
+}
+
+.about-content ul,
+.about-content ol {
+    margin: 20px 0;
+    padding-left: 30px;
+}
+
+.about-content li {
+    margin-bottom: 10px;
+    line-height: 1.6;
+}
+
+.about-content img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin: 20px 0;
+}
+
+.about-content a {
+    color: var(--primary-color);
+    text-decoration: underline;
+}
+
+.about-content a:hover {
+    color: var(--secondary-color);
+}
+
+@media (max-width: 768px) {
+    .about-section h2 {
+        font-size: 28px;
+    }
+
+    .about-section p {
+        font-size: 16px;
+    }
+
+    .activities-grid {
+        grid-template-columns: 1fr;
+    }
+}
